@@ -141,6 +141,7 @@ fieldset legend {
 .input-wrapper textarea {
   padding: 0 12px;
   height: 169px;
+  resize: none;
 }
 .input-wrapper select { 
   appearance: none;
